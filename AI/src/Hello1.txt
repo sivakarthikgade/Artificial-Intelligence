@@ -1,0 +1,96 @@
+Input Board: xxxxxxxBxxxBBxxxWWxWBWx
+Board Position: xxxxxxxBxxxxBxxxWWWWBWx
+Positions evaluated by static estimation: 6853
+MINIMAX Estimate: 3
+Input Board: BxxxWxWWxxxWxxBxxxBxxBx
+Board Position: BxxxWxWWxxxWxxBxWxxxxBx
+Positions evaluated by static estimation: 5182
+MINIMAX Estimate: 2
+Input Board: BxxBWxxxxWxxxWxxxBxBxWx
+Board Position: BWxBWxxxxWxxxWxxxBxBxWx
+Positions evaluated by static estimation: 4828
+MINIMAX Estimate: 0
+Input Board: xxxxWWxBxWBxxxxxBxxWxBx
+Board Position: xxxWWWxxxWBxxxxxBxxWxBx
+Positions evaluated by static estimation: 6712
+MINIMAX Estimate: 3
+Input Board: xxxxxxxBxxxBBxxxWWxWBWx
+Board Position: xxxxxxxBxxxBBxxWxWxWBWx
+Positions evaluated by static estimation: 3551
+MINIMAX Estimate: 952
+Input Board: BxxxWxWWxxxWxxBxxxBxxBx
+Board Position: BxxWWxxWxxxWxxBxxxBxxBx
+Positions evaluated by static estimation: 2234
+MINIMAX Estimate: -51
+Input Board: BxxBWxxxxWxxxWxxxBxBxWx
+Board Position: BxxBWxxxxWxxxWxxxBWBxxx
+Positions evaluated by static estimation: 935
+MINIMAX Estimate: -9
+Input Board: xxxxWWxBxWBxxxxxBxxWxBx
+Board Position: xxxWWWxxxxBxxxxxBxxWxBx
+Positions evaluated by static estimation: 2921
+MINIMAX Estimate: 952
+Input Board: xxxxxxxBxxxBBxxxWWxWBWx
+Board Position: xxxxxxxBxxxxBxxxWWWWBWx
+Positions evaluated by static estimation: 5521
+MINIMAX Estimate: 3
+Input Board: BxxxWxWWxxxWxxBxxxBxxBx
+Board Position: BxxxWxWWxxxWxxBxWxxxxBx
+Positions evaluated by static estimation: 3619
+MINIMAX Estimate: 2
+Input Board: BxxBWxxxxWxxxWxxxBxBxWx
+Board Position: BWxBWxxxxWxxxWxxxBxBxWx
+Positions evaluated by static estimation: 2711
+MINIMAX Estimate: 0
+Input Board: xxxxWWxBxWBxxxxxBxxWxBx
+Board Position: xxxWWWxxxWBxxxxxBxxWxBx
+Positions evaluated by static estimation: 1796
+MINIMAX Estimate: 3
+Input Board: xxxxxxxBxxxBBxxxWWxWBWx
+Board Position: xxxxxxxBxxxBBxxWxWxWBWx
+Positions evaluated by static estimation: 2882
+MINIMAX Estimate: 952
+Input Board: BxxxWxWWxxxWxxBxxxBxxBx
+Board Position: BxxWWxxWxxxWxxBxxxBxxBx
+Positions evaluated by static estimation: 1281
+MINIMAX Estimate: -51
+Input Board: BxxBWxxxxWxxxWxxxBxBxWx
+Board Position: BxxBWxxxxWxxxWxxxBWBxxx
+Positions evaluated by static estimation: 258
+MINIMAX Estimate: -9
+Input Board: xxxxWWxBxWBxxxxxBxxWxBx
+Board Position: xxxWWWxxxxBxxxxxBxxWxBx
+Positions evaluated by static estimation: 2170
+MINIMAX Estimate: 952
+Input Board: xxxxxxxBxxxBBxxxWWxWBWx
+Board Position: xxxxxxxBxxxBBBxxWWxxBWx
+Positions evaluated by static estimation: 5875
+MINIMAX Estimate: 2
+Input Board: BxxxWxWWxxxWxxBxxxBxxBx
+Board Position: BxxxWxWxxxxWxxBBxxBxxBx
+Positions evaluated by static estimation: 5554
+MINIMAX Estimate: 2
+Input Board: BxxBWxxxxWxxxWxxxBxBxWx
+Board Position: BxxBWxBxxxxxxWxxxBxBxWx
+Positions evaluated by static estimation: 6338
+MINIMAX Estimate: 3
+Input Board: xxxxWWxBxWBxxxxxBxxWxBx
+Board Position: xxxxWxxBxWBBxxxxBxxWxBx
+Positions evaluated by static estimation: 6036
+MINIMAX Estimate: 2
+Input Board: xxxxxxxBxxxBBxxxWWxWBWx
+Board Position: xxxxxBxxxxxBBxxxWWxWBWx
+Positions evaluated by static estimation: 2160
+MINIMAX Estimate: -1006
+Input Board: BxxxWxWWxxxWxxBxxxBxxBx
+Board Position: xBxxWxWWxxxWxxBxxxBxxBx
+Positions evaluated by static estimation: 2639
+MINIMAX Estimate: 952
+Input Board: BxxBWxxxxWxxxWxxxBxBxWx
+Board Position: xxxBWxxxBWxxxWxxxBxBxWx
+Positions evaluated by static estimation: 927
+MINIMAX Estimate: -9
+Input Board: xxxxWWxBxWBxxxxxBxxWxBx
+Board Position: xxxxWWBBxWxxxxxxBxxWxBx
+Positions evaluated by static estimation: 2487
+MINIMAX Estimate: -1007
